@@ -74,8 +74,8 @@ Live Transcript AI is an open-source tool built for **Otaku.dev '26 — Hacktobe
 
 ```bash
 # Clone the repository
-git clone https://github.com/surya-devi06/Live-Transcript-AI-Gemma-4-Hackathon-Project.git
-cd Live-Transcript-AI-Gemma-4-Hackathon-Project
+git clone https://github.com/surya-devi06/live-transcript-gemma-hackathon.git
+cd live-transcript-gemma-hackathon
 
 # Create and activate virtual environment
 python -m venv .venv
