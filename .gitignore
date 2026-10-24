@@ -1,0 +1,38 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Audio/Video temporary data and model caches
+samples/temp_*
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.webm
+*.ogg
+!samples/sample_speech.wav
+models/
+huggingface/
+
+# Streamlit runtime
+.streamlit/secrets.toml
+
+# IDE & OS artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
